@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HodHod.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\AB\source\repos\Bank\HodHod\clsString.h(35,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsString.h(39,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsString.h(49,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsString.h(158,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsString.h(273,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsString.h(316,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsDate.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(167,5): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(20,12): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(27,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(155,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(156,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(157,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(340,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(352,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsUtil.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\AB\source\repos\Bank\HodHod\clsUtil.h(195,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsUtil.h(199,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsUser.h(366,6): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\AB\source\repos\Bank\HodHod\clsUser.h(23,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\AB\source\repos\Bank\HodHod\clsTotalBalancesScreen.h(52,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsTransferScreen.h(47,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsCurrency.h(29,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\AB\source\repos\Bank\HodHod\clsCurrencyExchangeMainScreen.h(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\AB\source\repos\Bank\HodHod\clsBankClient.h(336): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\AB\source\repos\Bank\HodHod\clsUser.h(296): warning C4715: 'clsUser::Save': not all control paths return a value
+  HodHod.vcxproj -> C:\Users\AB\source\repos\Bank\x64\Debug\BankSystem.exe
